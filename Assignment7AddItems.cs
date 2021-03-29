@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 using Amazon.DynamoDBv2.Model;
 using Amazon.DynamoDBv2;
 
-// Uploading to GitHub
+// Uploading to GitHub - for assignment 7
 
 // Assembly attribute to enable the Lambda function's JSON input to be converted into a .NET class.
 [assembly: LambdaSerializer(typeof(Amazon.Lambda.Serialization.Json.JsonSerializer))]
